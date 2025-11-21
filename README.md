@@ -92,6 +92,10 @@ Las aproximaciones de Taylor mantienen <0.5% de error para ángulos en [0, 2π].
 Universidad del Valle de Guatemala  
 2025
 
+## Video
+
+https://youtu.be/LfdFD04m5r4
+
 ---
 
 Desarrollado con STM32CubeIDE y bibliotecas STM32 HAL.
