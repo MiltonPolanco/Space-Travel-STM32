@@ -1,0 +1,7 @@
+../SolarSystem/celestial_body.c:6:6:CelestialBody_Init	1
+../SolarSystem/celestial_body.c:40:6:CelestialBody_SetVisuals	1
+../SolarSystem/celestial_body.c:46:6:CelestialBody_SetOrbitalParams	1
+../SolarSystem/celestial_body.c:53:6:CelestialBody_SetRotation	1
+../SolarSystem/celestial_body.c:58:6:CelestialBody_SetParent	1
+../SolarSystem/celestial_body.c:63:6:CelestialBody_Update	5
+../SolarSystem/celestial_body.c:93:6:CelestialBody_Render	11

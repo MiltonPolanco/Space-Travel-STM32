@@ -1,0 +1,9 @@
+../SolarSystem/solar_system.c:7:6:SolarSystem_Init	1
+../SolarSystem/solar_system.c:17:6:SolarSystem_CreateDefaultSystem	1
+../SolarSystem/solar_system.c:85:6:SolarSystem_AddBody	2
+../SolarSystem/solar_system.c:93:6:SolarSystem_Update	2
+../SolarSystem/solar_system.c:104:6:SolarSystem_SortByDistance	5
+../SolarSystem/solar_system.c:125:6:SolarSystem_Render	4
+../SolarSystem/solar_system.c:155:6:SolarSystem_RenderOrbits	5
+../SolarSystem/solar_system.c:190:16:SolarSystem_GetBodyByName	3
+../SolarSystem/solar_system.c:200:16:SolarSystem_GetBodyByIndex	2
