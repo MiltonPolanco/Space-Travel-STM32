@@ -2,6 +2,10 @@
 
 Visualización en tiempo real de sistema solar embebido para STM32F446RE con pantalla LCD ILI9341. Renderiza 9 cuerpos celestes con parámetros orbitales escalados usando renderizado directo sin asignación de framebuffer.
 
+## Demostración
+
+![Simulación](P3-STM32.gif)
+
 ## Requisitos de Hardware
 
 - **MCU**: STM32F446RE (ARM Cortex-M4F, 84 MHz, 128 KB RAM)
